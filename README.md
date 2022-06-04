@@ -1,2 +1,2 @@
 # projectZilean
-Access League of Legends match data well beyond the reach of the client or tracking websites.
+Access League of Legends ranked match data in a clean, concise way to fill out spreadsheets.
